@@ -1,12 +1,18 @@
-<h2 align = "center">👋 Console.log("WELCOME") </h2>
+<h2 align = "center">👋 Console.log("HEY I'AM ABRAHAM") </h2>
 <h3 align = "center"> Backend Developer 💻 </h3>
 <p>
 Hola, Mi nombre es Abraham Mixael Vicioso, Soy estudiante de ingeniería de software y backend developer
 enfocado en el desarrollo web en el lado del servidor con tecnologias actuales y flexibles como Javascript y Typescript 🌐
 </p>
 
+>Hello, my name is Abraham Mixael Vicioso, I am a software engineering student and backend developer
+focused on server-side web development with current and flexible technologies such as Javascript and Typescript
+
 <p align="center">
-  <img width="auto" src="https://img.shields.io/badge/Abrahan Vicioso-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=19A7CE">
+  <a href="https://www.linkedin.com/in/abrahan-vicioso/">
+    <img width="auto" src="https://img.shields.io/badge/Abrahan Vicioso-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=19A7CE">
+  </a>
+  
 </p>
 
 ## Tecnologías ⚙️
