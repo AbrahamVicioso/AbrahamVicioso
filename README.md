@@ -1,5 +1,6 @@
-<h1 align = "center">👋 Console.log("WELCOME") </h1>
-<p align = "center">
+<h2 align = "center">👋 Console.log("WELCOME") </h2>
+<h3 align = "center"> Backend Developer 💻 </h3>
+<p>
 Hola, Mi nombre es Abraham Mixael Vicioso, Soy estudiante de ingeniería de software y backend developer
 enfocado en el desarrollo web en el lado del servidor con tecnologias actuales y flexibles como Javascript y Typescript 🌐
 </p>
