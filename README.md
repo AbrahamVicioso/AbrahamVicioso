@@ -8,7 +8,7 @@ enfocado en el desarrollo web en el lado del servidor con tecnologias actuales y
   <img width="auto" src="https://img.shields.io/badge/Abrahan Vicioso-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=19A7CE">
 </p>
 
-## Tecnologías 💻
+## Tecnologías ⚙️
 
 ![](https://img.shields.io/badge/NodeJs-Tecnologia-informational?style=flat&logo=node.js&logoColor=white&color=F6F1F1)
 ![](https://img.shields.io/badge/Javascript-Lenguaje-informational?style=flat&logo=javascript&logoColor=white&color=F6F1F1)
