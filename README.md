@@ -4,7 +4,6 @@ Hola, Mi nombre es Abraham Mixael Vicioso, Soy estudiante de ingeniería de soft
 enfocado en el desarrollo web en el lado del servidor con tecnologias actuales y flexibles como Javascript y Typescript 🌐
 </p>
 
-![FINAL_Mesa de trabajo 1](https://user-images.githubusercontent.com/52584979/236646448-97a771a9-c543-4903-8735-e9cef1d572bb.png)
 <p align="center">
   <img width="auto" src="https://img.shields.io/badge/Abrahan Vicioso-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=19A7CE">
 </p>
