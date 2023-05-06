@@ -1,7 +1,8 @@
 <h1 align = "center">👋 Console.log("WELCOME") </h1>
-<h5 align = "center">
-Hola, Mi nombre es Abraham Mixael Vicioso, Soy estudiante de ingeniería de software y backend developer 🌐
-</h5>
+<p align = "center">
+Hola, Mi nombre es Abraham Mixael Vicioso, Soy estudiante de ingeniería de software y backend developer
+enfocado en el desarrollo web en el lado del servidor con tecnologias actuales y flexibles como Javascript y Typescript🌐
+</p>
 
 ## Tecnologías 💻
 ![](https://img.shields.io/badge/NodeJs-Tecnologia-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
