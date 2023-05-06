@@ -4,4 +4,4 @@ Hola, Mi nombre es Abraham Mixael Vicioso, Soy estudiante de ingeniería de soft
 </h6>
 
 ## Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://github.com/AbrahamVicioso)
+
