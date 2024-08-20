@@ -27,6 +27,6 @@ focused on server-side web development with current and flexible technologies su
 ![](https://img.shields.io/badge/Postgresql-Database-informational?style=flat&logo=postgresql&logoColor=white&color=F6F1F1)
 ![](https://img.shields.io/badge/JWT-Tecnologia-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=F6F1F1)
 ![](https://img.shields.io/badge/Git-Tool-informational?style=flat&logo=git&logoColor=white&color=F6F1F1)
-![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=react&logoColor=white&color=F6F1F1)
+![](https://img.shields.io/badge/React-Library-informational?style=flat&logo=react&logoColor=white&color=F6F1F1)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnubash&logoColor=white&color=F6F1F1)
 
